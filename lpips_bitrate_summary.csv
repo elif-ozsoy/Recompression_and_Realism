@@ -1,0 +1,17 @@
+Algorithm,Cycle,Average LPIPS,Average Bitrate (bpp)
+hific,1,0.063,0.3835
+hific,2,0.0863,0.3802
+hific,3,0.1074,0.379
+hific,4,0.1239,0.3785
+elic,1,0.0668,0.8649
+elic,2,0.0789,0.8258
+elic,3,0.0852,0.8102
+elic,4,0.089,0.8019
+hyperprior,1,0.3208,0.479
+hyperprior,2,0.3573,0.2424
+hyperprior,3,0.3692,0.2213
+hyperprior,4,0.3757,0.2165
+crdr,1,0.0329,0.4024
+crdr,2,0.0446,0.3939
+crdr,3,0.054,0.39
+crdr,4,0.0618,0.3879
