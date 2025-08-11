@@ -10,7 +10,8 @@ This repository contains the code and data for generating plots and analyzing re
 - `Codebase_First Part.ipynb`: Main notebook containing the analysis and visualization code
 - `Codebase_Second Part.ipynb`: Continuation of the analysis
 - Various CSV files containing experimental data
-- `Image Realism Files/`: Directory containing additional data files
+- `Image Realism Files/`: Folder containing data files of the experiments with LIVE, CSIQ, TID2013 and KADID-10k.
+- `Metric Results/`: Folder containing the agreeement vectors for each aforementioned dataset
 
 ## Dependencies
 
