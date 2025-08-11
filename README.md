@@ -1,6 +1,9 @@
 # Data Analysis and Visualization Notebook for Image Compression Research
 
-This repository contains the code and data for generating plots and analyzing results for the paper "A Dual Study on Analyzing Image Recompression Effects and Realism Assessment via Kolmogorov Complexity".
+This repository contains the code and data for generating plots and analyzing results for the paper "A Dual Study on Analyzing Image Recompression Effects and Realism Assessment via Kolmogorov Complexity". The notebooks can be accesses: 
+
+- First Part: [Codebase for the first part](https://github.com/elif-ozsoy/Recompression_and_Realism/blob/main/Codebase_First%20Part.ipynb)
+- Second Part: [Codebase for the second part](https://github.com/elif-ozsoy/Recompression_and_Realism/blob/main/Codebase_Second%20Part.ipynb)
 
 ## Project Structure
 
